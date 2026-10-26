@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.readygpu/readygpu",
+  "title": "readygpu: hardware for local AI",
+  "description": "Live UK, Germany, Canada and US prices for GPUs and Macs that run open AI models. No sign-up.",
+  "repository": {
+    "url": "https://github.com/scoritz/readygpu-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://readygpu.com/us/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://readygpu.com/api/mcp"
+    }
+  ]
+}

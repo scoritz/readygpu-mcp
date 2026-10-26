@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "readygpu": {
+      "type": "http",
+      "url": "https://readygpu.com/api/mcp"
+    }
+  }
+}

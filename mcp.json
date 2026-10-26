@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "readygpu": {
+      "url": "https://readygpu.com/api/mcp"
+    }
+  }
+}

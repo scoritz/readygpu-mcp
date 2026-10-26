@@ -1,0 +1,10 @@
+{
+  "name": "readygpu",
+  "version": "1.0.0",
+  "description": "Live UK, Germany, Canada and US prices for GPUs and Macs that run open AI models. No sign-up.",
+  "mcpServers": {
+    "readygpu": {
+      "httpUrl": "https://readygpu.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "readygpu",
+  "version": "1.0.0",
+  "description": "Live UK, Germany, Canada and US prices for GPUs and Macs that run open AI models. No sign-up.",
+  "author": {
+    "name": "scoritz"
+  },
+  "homepage": "https://readygpu.com",
+  "repository": "https://github.com/scoritz/readygpu-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "local-ai",
+    "gpu",
+    "llm",
+    "hardware"
+  ]
+}
